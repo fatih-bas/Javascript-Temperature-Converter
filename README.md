@@ -8,7 +8,7 @@ Javascript Celcius-Fahrenheit-Kelvin Converter
 - Javascript
 
 ### Live 
-* https://keen-goldberg-e90299.netlify.app/
+* https://temperature-converter21213.netlify.app/
 
 ### Demo
 
